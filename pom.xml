@@ -3,10 +3,10 @@
   <groupId>defclass</groupId>
   <artifactId>onyx-redis-plus</artifactId>
   <packaging>jar</packaging>
-  <version>0.8.2.1</version>
+  <version>0.8.2.2</version>
   <name>onyx-redis-plus</name>
   <description>Onyx plugin for redis</description>
-  <url>https://github.com/onyx-platform/onyx-redis</url>
+  <url>https://github.com/defclass/onyx-redis-plus</url>
   <licenses>
     <license>
       <name>Eclipse Public License</name>
@@ -16,7 +16,7 @@
   <scm>
     <connection>scm:git:git://github.com/onyx-platform/onyx-redis.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/onyx-platform/onyx-redis.git</developerConnection>
-    <tag>5b42971dd1712cdf726311107609dd89245c3d2e
+    <tag>faf98efc388329686612caf2e325a3148418ef71
 </tag>
     <url>https://github.com/onyx-platform/onyx-redis</url>
   </scm>

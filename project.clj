@@ -1,6 +1,6 @@
-(defproject defclass/onyx-redis-plus "0.8.2.1"
+(defproject defclass/onyx-redis-plus "0.8.2.2"
   :description "Onyx plugin for redis"
-  :url "https://github.com/onyx-platform/onyx-redis"
+  :url "https://github.com/defclass/onyx-redis-plus"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :repositories {"snapshots" {:url "https://clojars.org/repo"

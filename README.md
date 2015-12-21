@@ -1,3 +1,7 @@
+##
+
+based on https://github.com/onyx-platform/onyx-redis, please visit this address.
+
 ## onyx-redis
 
 Onyx plugin for redis.
@@ -7,7 +11,7 @@ Onyx plugin for redis.
 In your project file:
 
 ```clojure
-[org.onyxplatform/onyx-redis "0.8.2.1"]
+[defclass/onyx-redis-plus "0.8.2.2"]
 ```
 
 In your peer boot-up namespace:
